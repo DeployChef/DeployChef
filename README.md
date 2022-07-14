@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
+<a href="https://www.instagram.com/???/">
+  <img align="left" alt="Chef's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/???">
+  <img align="left" alt="Chef's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/???">
+  <img align="left" alt="Chef | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/???/">
+  <img align="left" alt="Chef's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="[https://www.linkedin.com/in/???/](https://t.me/devchef)">
+  <img align="left" alt="Chef's Telegramm" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=DeployChef.DeployChef)
 
 ## &#x1f4c8; GitHub Stats
 
