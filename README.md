@@ -4,10 +4,13 @@
 <a href="https://t.me/deploychef">
   <img align="left" alt="Chef's Telegramm" width="22px" src="assets/tg.webp" />
 </a>
-<a href="https://www.instagram.com/???/">
+<a href="https://www.youtube.com/channel/UC8d77ySoAPsxoU-x6-2eadw">
+  <img align="left" alt="Chef's YouTube" width="22px" src="assets/youtube.png" />
+</a>
+<a href="https://www.instagram.com/deploychef/">
   <img align="left" alt="Chef's Instagram" width="22px" src="assets/instagram.png" />
 </a>
-<a href="https://www.linkedin.com/in/???/">
+<a href="https://www.linkedin.com/in/vladislav-titov-7a68a517b/">
   <img align="left" alt="Chef's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
 
