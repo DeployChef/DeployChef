@@ -2,7 +2,7 @@
 
 # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 <a href="https://t.me/deploychef">
-  <img align="left" alt="Chef's Telegramm" width="22px" src="assets/tg.png" />
+  <img align="left" alt="Chef's Telegramm" width="22px" src="assets/tg.webp" />
 </a>
 <a href="https://www.instagram.com/???/">
   <img align="left" alt="Chef's Instagram" width="22px" src="assets/instagram.png" />
