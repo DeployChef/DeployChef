@@ -5,7 +5,7 @@
   <img align="left" alt="Chef's Telegramm" width="22px" src="assets/tg.webp" />
 </a>
 <a href="https://www.youtube.com/channel/UC8d77ySoAPsxoU-x6-2eadw">
-  <img align="left" alt="Chef's YouTube" width="22px" src="assets/youtube.png" />
+  <img align="left" alt="Chef's YouTube" width="23px" src="assets/youtube.png" />
 </a>
 <a href="https://www.instagram.com/deploychef/">
   <img align="left" alt="Chef's Instagram" width="22px" src="assets/instagram.png" />
